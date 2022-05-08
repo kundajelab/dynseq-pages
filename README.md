@@ -15,7 +15,7 @@ The UCSC Browser treats the dynseq track as a regular BigWig that requires `logo
 It can be specified as:
 
 ```
-track bigDataUrl=<https://link.to.dynseq.bw> type=bigWig logo=on visibility=full
+track bigDataUrl=https://link.to.dynseq.bw type=bigWig logo=on visibility=full
 ```
 
 ![](media/ucsc.gif)
