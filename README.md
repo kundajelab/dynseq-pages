@@ -28,4 +28,4 @@ In HiGlass/Resgen, a dynseq track is associated with a BigWig and a Fasta file. 
 
 ![](media/resgen.gif)
 
-You can find the extended version which start from loading the fasta and chromsizes file [here](media/resgen_extended.gif).
+You can find the extended version which starts from loading the fasta and chromsizes file [here](media/resgen_extended.gif).
