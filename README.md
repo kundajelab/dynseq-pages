@@ -27,3 +27,5 @@ The dynseq track has been implemented in [HiGlass](https://github.com/kundajelab
 In HiGlass/Resgen, a dynseq track is associated with a BigWig and a Fasta file. This allows visualizing variants by providing an alternate Fasta file. To use dynseq in Resgen, first load the genome Fasta and chromosome size tsv with appropriate tags. Then add the dynseq track as shown below.
 
 ![](media/resgen.gif)
+
+You can find the extended version which start from loading the fasta and chromsizes file [here](media/resgen_extended.gif).
